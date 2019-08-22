@@ -1,7 +1,7 @@
 # DJL
 AI DJ, Drop The Beat.
 
-## Possible Solution
+## Network To Try
 ### [MelNet](https://sjvasquez.github.io/blog/melnet/)
 Able to generate high-fidelity audio samples which capture structure at timescales that time-domain models have yet to achieve . Powered by Recurrent Convolutional Neural Network.
 - Paper: https://arxiv.org/pdf/1906.01083.pdf

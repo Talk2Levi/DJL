@@ -10,3 +10,4 @@ Able to generate high-fidelity audio samples which capture structure at timescal
 
 ### [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
 The result isn't ideal, the sound is still too robotic.
+- Paper: https://arxiv.org/abs/1609.03499

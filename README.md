@@ -11,6 +11,10 @@ AI DJ, Drop The Beat.
 - A unified language that allows different musical pieces of equipment to communicate with one another 
 - It is not an audio signal, it is a trigger for communicating to another device, it transmits information such as tonation, the velocity of the performance, volume, etc.
 
+### Musical Scores
+- a written form of a musical composition.
+- parts for different instruments appear on separate staves on large pages.
+
 ## Network To Try
 ### [MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
 A hierarchical recurrent variational autoencoder for music.
